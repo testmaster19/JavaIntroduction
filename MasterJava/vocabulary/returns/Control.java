@@ -1,4 +1,4 @@
-package returns;
+package MasterJava.vocabulary.returns;
 public class Control {
 
 

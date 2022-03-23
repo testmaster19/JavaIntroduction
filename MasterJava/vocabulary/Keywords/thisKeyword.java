@@ -1,4 +1,4 @@
-package vocabulary.Keywords;
+package MasterJava.vocabulary.Keywords;
 
 // Uncomment to see
 

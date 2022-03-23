@@ -1,4 +1,4 @@
-package vocabulary.memberAccess;
+package MasterJava.vocabulary.memberAccess;
 
 
 // https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html
