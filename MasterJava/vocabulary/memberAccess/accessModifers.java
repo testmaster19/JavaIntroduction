@@ -1,10 +1,8 @@
 package MasterJava.vocabulary.memberAccess;
 
 
-// https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html
-/* Tips
-Avoid public fields except for constants
-*/
+
+
 
 public class accessModifers {
         

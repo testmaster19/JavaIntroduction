@@ -1,7 +1,7 @@
 package MasterJava.vocabulary.classMethods;
 // https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html
 
-public class staticpractice {
+public class statics {
 
 }
 
